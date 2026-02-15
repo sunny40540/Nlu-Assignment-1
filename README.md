@@ -2,7 +2,7 @@
 # Sports vs Politics Text Classifier
 **Natural Language Understanding – Assignment 1**  
 **Name:** Sunny Kumar  
-**Roll Number:** ACS B23CS1071
+**Roll Number:**  B23CS1071
 
 ---
 
